@@ -1,0 +1,3 @@
+# Continuum Land Group — Cloudflare Pages redirect rules
+# Canonicalize to primary domain (optional — also handled at DNS/CF level)
+# /news/index.html  /news/  301

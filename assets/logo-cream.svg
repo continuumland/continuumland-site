@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" role="img" aria-label="Continuum Land Group">
+  <line x1="120" y1="60" x2="480" y2="60" stroke="#A8C5B2" stroke-width="0.75"/>
+  <text x="300" y="100" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="42" font-weight="400" letter-spacing="12" fill="#FAFAF7">CONTINUUM</text>
+  <circle cx="300" cy="118" r="1.5" fill="#A8C5B2"/>
+  <text x="300" y="138" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="300" letter-spacing="12" fill="#A8C5B2">LAND GROUP</text>
+  <line x1="120" y1="155" x2="480" y2="155" stroke="#A8C5B2" stroke-width="0.75"/>
+</svg>

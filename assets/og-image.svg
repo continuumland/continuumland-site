@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FAFAF7"/>
+      <stop offset="50%" stop-color="#F5F3EE"/>
+      <stop offset="100%" stop-color="#E8E4DB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Top rule -->
+  <line x1="360" y1="195" x2="840" y2="195" stroke="#C4B9A8" stroke-width="1"/>
+
+  <!-- Wordmark -->
+  <text x="600" y="270" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="82" font-weight="400" letter-spacing="22" fill="#2D4A3E">CONTINUUM</text>
+
+  <circle cx="600" cy="298" r="3" fill="#A39580"/>
+
+  <text x="600" y="335" text-anchor="middle" font-family="'Inter', Helvetica, sans-serif" font-size="22" font-weight="300" letter-spacing="20" fill="#8B7D6B">LAND GROUP</text>
+
+  <line x1="360" y1="380" x2="840" y2="380" stroke="#C4B9A8" stroke-width="1"/>
+
+  <!-- Tagline -->
+  <text x="600" y="455" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-style="italic" font-size="40" font-weight="300" fill="#8B7D6B">Land that lasts.</text>
+
+  <!-- Thesis line -->
+  <text x="600" y="530" text-anchor="middle" font-family="'Inter', Helvetica, sans-serif" font-size="18" font-weight="400" fill="#4A5568">Resource-rich land. Binding ecological covenants. Regenerational wealth.</text>
+
+  <!-- URL -->
+  <text x="600" y="580" text-anchor="middle" font-family="'Inter', Helvetica, sans-serif" font-size="14" font-weight="500" letter-spacing="4" fill="#4A7C59">CONTINUUMLAND.COM</text>
+</svg>
